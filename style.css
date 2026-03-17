@@ -1,0 +1,25 @@
+@charset "UTF-80";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
